@@ -9,3 +9,5 @@ Question 4: This Python program calcuates a 10% commission for each employee bas
 Question 5: This python program tracks the total value of a stock portfolio and simulates daily market fluctuations. The portfolio is stored as a nest dictionary containing number of shares, and current share price. This program calculates the total value of the portfolio, simulates five days of random daily price changes at (+-5%), recalculates and prints the updated portfolio value each daym and applies compounding price changes over time.
 
 Question 6: This Python program models loan repayment using monthly interest calcuations and fixed payments. It demonstrated while loops, financial calcualtions, and function design. 
+
+Question 7: This Python program calculates total product inventory across multiple warehouses using nested loops and dictionaries. It demonstrates aggregation logic and stuctured data modeling. 
