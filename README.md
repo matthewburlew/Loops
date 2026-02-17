@@ -11,3 +11,5 @@ Question 5: This python program tracks the total value of a stock portfolio and 
 Question 6: This Python program models loan repayment using monthly interest calcuations and fixed payments. It demonstrated while loops, financial calcualtions, and function design. 
 
 Question 7: This Python program calculates total product inventory across multiple warehouses using nested loops and dictionaries. It demonstrates aggregation logic and stuctured data modeling. 
+
+Question 8: This python program cateorizes customers into Bronze, Silver, and Gold tiers based on purchase totals and counts how many customers fall into each tier. 
