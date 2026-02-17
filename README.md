@@ -16,3 +16,4 @@ Question 8: This Python program cateorizes customers into Bronze, Silver, and Go
 
 Question 9: This Python program projects bysiness revenue over a 10-year period using compound annual growth. The program accepts and initial revenue amount, accepts an annual growth rate(percentage), Applies compound growth year-by-year, and prints a formatted revenue projectiion table. 
 
+Question 10: This Python program simulates a revenue growth chart using  ASCII bars. It demonstrates coompound growth, loops, and string multiplication for simple data visulaization. 
