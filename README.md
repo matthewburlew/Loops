@@ -12,4 +12,7 @@ Question 6: This Python program models loan repayment using monthly interest cal
 
 Question 7: This Python program calculates total product inventory across multiple warehouses using nested loops and dictionaries. It demonstrates aggregation logic and stuctured data modeling. 
 
-Question 8: This python program cateorizes customers into Bronze, Silver, and Gold tiers based on purchase totals and counts how many customers fall into each tier. 
+Question 8: This Python program cateorizes customers into Bronze, Silver, and Gold tiers based on purchase totals and counts how many customers fall into each tier. 
+
+Question 9: This Python program projects bysiness revenue over a 10-year period using compound annual growth. The program accepts and initial revenue amount, accepts an annual growth rate(percentage), Applies compound growth year-by-year, and prints a formatted revenue projectiion table. 
+
